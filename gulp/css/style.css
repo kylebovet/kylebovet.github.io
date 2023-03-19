@@ -44,7 +44,7 @@ a {
 }
 
 .border {
-  background-color: #D98555;
+  background-color: #d98555;
   padding: 5px;
 }
 
@@ -131,7 +131,10 @@ aside {
   color: #C4A484;
   text-decoration: none;
 }
-
+.card a:hover 
+{
+  color: #C4A484;
+}
 
 
 @media (max-width: 1000px) {
