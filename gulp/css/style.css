@@ -44,7 +44,7 @@ a {
 }
 
 .border {
-  background-color: #d98555;
+  background-color: hwb(22 33% 15%);
   padding: 5px;
 }
 
@@ -133,7 +133,7 @@ aside {
 }
 .card a:hover 
 {
-  color: #C4A484;
+  color: #808080;
 }
 
 
